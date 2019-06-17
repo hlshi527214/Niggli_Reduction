@@ -16,7 +16,7 @@ installed on your PC. It can be available at http://www.gatan.com/products/tem-a
 
 ii) Drag 'Niggli_reduction_Direct_calculation_method.s' or 'Niggli_reduction_Direct_calculation_method-Pro.s' into DigitalMicrograph software.
 
-iii) Clicke 'CTRL'+'Enten' to enter the graphical user interface.
+iii) Clicke 'CTRL'+'Enter' to enter the graphical user interface.
 
 
 If you have any question or suggestions, please contact me:
